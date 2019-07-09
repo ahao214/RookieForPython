@@ -1,0 +1,24 @@
+<!--products.xml-->
+<root>
+    <products>
+        <product uuid='1234'>
+            <id>10000</id>
+            <name>iphone9</name>
+            <price>10987</price>
+        </product>
+        <product uuid='2234'>
+            <id>20000</id>
+            <name>笔记本</name>
+            <price>25000</price>
+        </product>
+        <product uuid='3234'>
+            <id>30000</id>
+            <name>特斯拉</name>
+            <price>180000</price>
+        </product>
+    </products>
+</root>
+
+
+
+
