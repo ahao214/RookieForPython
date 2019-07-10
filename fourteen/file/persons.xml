@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<persons>
+ <item type="int">20</item>
+ <item type="str">names</item>
+ <item type="dict">
+  <name type="str">Bill</name>
+  <age type="str">30</age>
+  <salary type="int">2000</salary>
+ </item>
+ <item type="dict">
+  <name type="str">王军</name>
+  <age type="str">41</age>
+  <salary type="int">3000</salary>
+ </item>
+ <item type="dict">
+  <name type="str">李二</name>
+  <age type="str">23</age>
+  <salary type="int">4560</salary>
+ </item>
+</persons>
