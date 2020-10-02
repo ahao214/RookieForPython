@@ -2,7 +2,7 @@ names = ["Bill","Kobe","James"]
 numbers = [1,22,3,4,5,6]
 salary  = [300.0, 400.0, 500.0]
 flags = [True,False,True,False]
-values = [names,numbers,salary,flags,['a','b']]
+values = [names, numbers, salary, flags, ['a', 'b']]
 
 for value in values:
     print(value)

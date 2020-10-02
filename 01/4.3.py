@@ -12,3 +12,4 @@ print(numbers[3::2])
 url = "https://geeko.com"
 print(url[8:12])
 print(url[8:10])
+

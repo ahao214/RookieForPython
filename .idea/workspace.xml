@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9b17601d-314b-411b-84c3-f1f0fe9fd0e9" name="Default Changelist" comment="函数">
+      <change afterPath="$PROJECT_DIR$/01/1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/fruitselect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/other/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/other/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruanmou/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruanmou/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruanmou/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruanmou/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01/4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/01/4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/01/4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eleven/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/eleven/01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +45,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>F:\MyProgramm\python\Rookie</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,31 +68,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.4.2">
-    <configuration name="4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Rookie" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../../project/python/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/4.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1">
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Rookie" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eleven" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/4.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eleven/01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +97,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Rookie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/other" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/other/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Rookie" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/6.02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/1.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StudentProgramm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fruitselect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Rookie" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQLite" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLite/StudentProgramm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/fruitselect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="searchData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Rookie" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQLite" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQLite/searchData.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,19 +183,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.6.01" />
-      <item itemvalue="Python.searchData" />
-      <item itemvalue="Python.StudentProgramm" />
-      <item itemvalue="Python.4.1" />
-      <item itemvalue="Python.4.2" />
-      <item itemvalue="Python.6.02" />
+      <item itemvalue="Python.01" />
+      <item itemvalue="Python.scratch" />
+      <item itemvalue="Python.1.1" />
+      <item itemvalue="Python.fruitselect" />
+      <item itemvalue="Python.1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4.2" />
-        <item itemvalue="Python.6.02" />
-        <item itemvalue="Python.4.1" />
-        <item itemvalue="Python.StudentProgramm" />
-        <item itemvalue="Python.searchData" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.fruitselect" />
+        <item itemvalue="Python.1.1" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.01" />
       </list>
     </recent_temporary>
   </component>
@@ -190,35 +220,43 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="函数" />
     <option name="LAST_COMMIT_MESSAGE" value="函数" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="426" y="65" key="#4.1" timestamp="1587559097260">
+    <state x="608" y="293" key="#Notifications" timestamp="1601621442631">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="426" y="65" key="#4.1/0.0.1440.900@0.0.1440.900" timestamp="1587559097260" />
-    <state width="709" height="236" key="GridCell.Tab.0.bottom" timestamp="1587559104128">
+    <state x="608" y="293" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1601621442631" />
+    <state width="1419" height="231" key="GridCell.Tab.0.bottom" timestamp="1594390264547">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="709" height="236" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587559104128" />
-    <state width="709" height="236" key="GridCell.Tab.0.center" timestamp="1587559104127">
+    <state width="1419" height="231" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594390264547" />
+    <state width="1419" height="231" key="GridCell.Tab.0.center" timestamp="1594390264546">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="709" height="236" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587559104127" />
-    <state width="709" height="236" key="GridCell.Tab.0.left" timestamp="1587559104126">
+    <state width="1419" height="231" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594390264546" />
+    <state width="1419" height="231" key="GridCell.Tab.0.left" timestamp="1594390264545">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="709" height="236" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587559104126" />
-    <state width="709" height="236" key="GridCell.Tab.0.right" timestamp="1587559104127">
+    <state width="1419" height="231" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594390264545" />
+    <state width="1419" height="231" key="GridCell.Tab.0.right" timestamp="1594390264547">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="709" height="236" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587559104127" />
-    <state x="229" y="89" key="SettingsEditor" timestamp="1587559128831">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587559128831" />
+    <state width="1419" height="231" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594390264547" />
   </component>
   <component name="masterDetails">
     <states>
